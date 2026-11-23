@@ -1,0 +1,40 @@
+fips,county,rucc,area_type,adjacency,rucc_description,rucc_pop_2020
+53001,Adams,6,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",20613
+53003,Asotin,3,Metro,Metro,"Metro - Counties in metro areas of fewer than 250,000 population",22285
+53005,Benton,2,Metro,Metro,"Metro - Counties in metro areas of 250,000 to 1 million population",206873
+53007,Chelan,3,Metro,Metro,"Metro - Counties in metro areas of fewer than 250,000 population",79074
+53009,Clallam,5,Nonmetro,"Nonmetro, not adjacent","Nonmetro - Urban population of 20,000 or more, not adjacent to a metro area",77155
+53011,Clark,1,Metro,Metro,Metro - Counties in metro areas of 1 million population or more,503311
+53013,Columbia,8,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",3952
+53015,Cowlitz,3,Metro,Metro,"Metro - Counties in metro areas of fewer than 250,000 population",110730
+53017,Douglas,3,Metro,Metro,"Metro - Counties in metro areas of fewer than 250,000 population",42938
+53019,Ferry,8,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",7178
+53021,Franklin,2,Metro,Metro,"Metro - Counties in metro areas of 250,000 to 1 million population",96749
+53023,Garfield,8,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",2286
+53025,Grant,5,Nonmetro,"Nonmetro, not adjacent","Nonmetro - Urban population of 20,000 or more, not adjacent to a metro area",99123
+53027,Grays Harbor,4,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",75636
+53029,Island,4,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",86857
+53031,Jefferson,6,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",32977
+53033,King,1,Metro,Metro,Metro - Counties in metro areas of 1 million population or more,2269675
+53035,Kitsap,2,Metro,Metro,"Metro - Counties in metro areas of 250,000 to 1 million population",275611
+53037,Kittitas,4,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",44337
+53039,Klickitat,9,Nonmetro,"Nonmetro, not adjacent","Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",22735
+53041,Lewis,4,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",82149
+53043,Lincoln,8,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",10876
+53045,Mason,4,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",65726
+53047,Okanogan,6,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of 5,000 to 20,000, adjacent to a metro area",42104
+53049,Pacific,7,Nonmetro,"Nonmetro, not adjacent","Nonmetro - Urban population of 5,000 to 20,000, not adjacent to a metro area",23365
+53051,Pend Oreille,8,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",13401
+53053,Pierce,1,Metro,Metro,Metro - Counties in metro areas of 1 million population or more,921130
+53055,San Juan,9,Nonmetro,"Nonmetro, not adjacent","Nonmetro - Urban population of fewer than 5,000, not adjacent to a metro area",17788
+53057,Skagit,3,Metro,Metro,"Metro - Counties in metro areas of fewer than 250,000 population",129523
+53059,Skamania,1,Metro,Metro,Metro - Counties in metro areas of 1 million population or more,12036
+53061,Snohomish,1,Metro,Metro,Metro - Counties in metro areas of 1 million population or more,827957
+53063,Spokane,2,Metro,Metro,"Metro - Counties in metro areas of 250,000 to 1 million population",539339
+53065,Stevens,2,Metro,Metro,"Metro - Counties in metro areas of 250,000 to 1 million population",46445
+53067,Thurston,2,Metro,Metro,"Metro - Counties in metro areas of 250,000 to 1 million population",294793
+53069,Wahkiakum,8,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of fewer than 5,000, adjacent to a metro area",4422
+53071,Walla Walla,3,Metro,Metro,"Metro - Counties in metro areas of fewer than 250,000 population",62584
+53073,Whatcom,3,Metro,Metro,"Metro - Counties in metro areas of fewer than 250,000 population",226847
+53075,Whitman,4,Nonmetro,"Nonmetro, adjacent","Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",47973
+53077,Yakima,2,Metro,Metro,"Metro - Counties in metro areas of 250,000 to 1 million population",256728
